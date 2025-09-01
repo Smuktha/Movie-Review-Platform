@@ -2,7 +2,6 @@
 
 A full-stack movie review application where users can browse movies, post reviews, manage watchlists, and rate movies.  
 Built with **React (Vite) + Redux + TailwindCSS** on the frontend, and **Node.js + Express + MongoDB** on the backend. 
-
 ---
 
 ## 🚀 Features
