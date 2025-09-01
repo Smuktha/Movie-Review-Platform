@@ -35,7 +35,7 @@ Built with **React (Vite) + Redux + TailwindCSS** on the frontend, and **Node.js
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/your-username/movie-review-platform.git
+git clone https://github.com/Smuktha/movie-review-platform.git
 cd movie-review-platform
 ````
 
