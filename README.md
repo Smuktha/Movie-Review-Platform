@@ -154,8 +154,3 @@ Developed by **Muktha** ✨
 Feel free to contribute by opening issues or PRs!
 
 ```
-
----
-
-👉 Do you want me to also **create a GitHub-ready repo structure** (with `.gitignore`, updated README, etc.) zipped so you can directly push it?
-```
