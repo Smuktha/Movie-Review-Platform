@@ -152,5 +152,4 @@ npm run dev
 
 Developed by **Muktha** ✨
 Feel free to contribute by opening issues or PRs!
-
 ```
